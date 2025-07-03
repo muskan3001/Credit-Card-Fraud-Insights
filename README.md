@@ -69,13 +69,3 @@ This project analyzes the **2023 Credit Card Fraud Detection Dataset** consistin
 
 <sub>📧 Email: muskan.gulati3029@gmail.com  
 🔗 <a href="https://www.linkedin.com/in/muskan-gulati30/">LinkedIn</a></sub>
-
----
-
-## 🧾 Project Structure
-
-```bash
-credit-card-fraud-insights/
-├── CreditCardDetection_Project-2.ipynb     # Main analysis notebook
-├── README.md                               # This file
-└── images/                                 # (Optional) for charts
